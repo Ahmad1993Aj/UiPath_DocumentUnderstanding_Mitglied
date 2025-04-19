@@ -287,6 +287,10 @@
           "SetValues": [],
           "Metadata": [
             {
+              "Key": "RequiresReference",
+              "Value": "False"
+            },
+            {
               "Key": "Color",
               "Value": "#ad44f9"
             },
